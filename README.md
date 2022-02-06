@@ -1,7 +1,4 @@
 # **Hello, I am Jason Evangelista 😄**
-
-![Jason Evangelista](https://www.jason-evangelista.me/assets/jason-plain.jpg)
-
 ---
 
 > Your regular person and I love technology especially when creating Web applications -
