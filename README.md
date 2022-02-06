@@ -1,5 +1,4 @@
 # **Hello, I am Jason Evangelista 😄**
----
 
 > Your regular person and I love technology especially when creating Web applications -
 > **Keep Exploring**
@@ -33,5 +32,3 @@ Tools that I use everyday and keep exploring to improve my arsenal
 - [**Facebook**](https://www.facebook.com/Jasonevangelista.1122/)
 - [**Instagram**](https://www.instagram.com/potato_jason/)
 - [**Twitter**](https://twitter.com/JasonEvans1122)
-___
-
